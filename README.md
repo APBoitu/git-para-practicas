@@ -9,4 +9,4 @@ Esto es una práctica de Git.
 
 Es todo.
 
-<escuela.it>
+<http://escuela.it>
